@@ -1,3 +1,9 @@
+！！！！！！！！！！！！！！
+由于i南航网页版已被禁止使用
+    本项目已经失效
+！！！！！！！！！！！！！！
+
+
 仿照bilibili视频主实现的对手机的一个消息发送
 源地址连接
 【如何给女朋友微信公众号推送天气】 https://www.bilibili.com/video/BV18P411L77z?share_source=copy_web&vd_source=a36b3af8d1852c541922d23c654733cb
